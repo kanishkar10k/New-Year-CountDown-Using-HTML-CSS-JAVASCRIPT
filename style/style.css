@@ -1,0 +1,17 @@
+.countdown{
+    max-width: 600px;
+    margin: 200px auto;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px 10px 50px;
+    border: 2px solid aquamarine;
+    color:aquamarine;
+    font-size: 20px;
+}
+body{
+    background-color: #3795BD;
+}
+#days,#hours,#seconds,#minutes{
+    font-size: 50px;
+}
